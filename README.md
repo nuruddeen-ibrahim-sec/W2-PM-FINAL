@@ -8,13 +8,13 @@
 
 ---
 
-## ðŸ“‹ Executive Overview
+## ‹ Executive Overview
 
 This repository details the Phase 1 (Reconnaissance & Footprinting) and Phase 2 (Scanning & Network Discovery) assessments completed during Week 2. The project demonstrates the methodology used to move from passive public domain enumeration to active local host discovery.
 
 ---
 
-## ðŸ› ï¸ Tools & Scope Matrix
+## › ï¸ Tools & Scope Matrix
 
 * **WHOIS** (Kali Linux): Domain registration metadata and name server identification
 * **WhatWeb** (Kali Linux): Web technology, CMS, and plugin fingerprinting
@@ -27,7 +27,7 @@ This repository details the Phase 1 (Reconnaissance & Footprinting) and Phase 2 
 
 ---
 
-## ðŸ“Š Findings & Risk Matrix
+## Findings & Risk Matrix
 
 * **Web Technology Exposure:** WhatWeb identified WordPress 7.0.4 and WP Download Manager 3.3.58 (Medium Risk).
 * **DNS & Infrastructure Profile:** DNSRecon and WHOIS mapped domain registrars, mail exchange servers, and name servers (Medium Risk).
@@ -37,7 +37,7 @@ This repository details the Phase 1 (Reconnaissance & Footprinting) and Phase 2 
 
 ---
 
-## ðŸ“¸ Assessment Evidence & Tool Screenshots
+## “¸ Assessment Evidence & Tool Screenshots
 
 Below is the structured proof archive displaying the execution outputs for each module.
 
