@@ -43,43 +43,43 @@ Below is the structured proof archive displaying the execution outputs for each 
 
 ### 1. Local Interface Identification (ipconfig)
 Captures source network interface settings and default gateway parameters.  
-![ipconfig Screenshot](./evidence/ipconfig.png)
+![ipconfig Screenshot](./ipconfig.png)
 
 ---
 
 ### 2. Domain Registration Metadata (whois)
 Extracts registrar information and authoritative name servers for networkwalks.com.  
-![whois Screenshot](./evidence/whois.png)
+![whois Screenshot](./whois.png)
 
 ---
 
 ### 3. Domain Resolution (nslookup)
 Resolves domain endpoints to target IP address 192.232.216.135.  
-![nslookup Screenshot](./evidence/nslookup.png)
+![nslookup Screenshot](./nslookup.png)
 
 ---
 
 ### 4. Advanced DNS Record Enumeration (dnsrecon)
 Maps SPF records, mail exchangers, service records, and zone configurations.  
-![dnsrecon Screenshot](./evidence/dnsrecon.png)
+![dnsrecon Screenshot](./dnsrecon.png)
 
 ---
 
 ### 5. Web Application Firewall Detection (wafw00f)
 Verifies active WAF defenses and identifies ModSecurity signature rulesets.  
-![wafw00f Screenshot](./evidence/wafw00f.png)
+![wafw00f Screenshot](./wafw00f.png)
 
 ---
 
 ### 6. Web Technology Stack Fingerprinting (whatweb)
 Fingerprints web server headers, CMS versions, and active site plugins.  
-![whatweb Screenshot](./evidence/whatweb.png)
+![whatweb Screenshot](./whatweb.png)
 
 ---
 
 ### 7. HTTP Header Response Inspection (curl)
 Extracts HTTP response headers and locates the public REST API endpoint.  
-![curl Screenshot](./evidence/curl.png)
+![curl Screenshot](./curl.png)
 
 ---
 
