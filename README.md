@@ -324,7 +324,7 @@ Domain registration and infrastructure information.
 
 DNS records and mail-security information.
 
-![DNSRecon Evidence](dnrsecon.png)
+![DNSRecon Evidence](dnsrecon.png)
 
 ---
 
