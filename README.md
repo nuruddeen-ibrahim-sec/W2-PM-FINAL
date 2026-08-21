@@ -364,7 +364,7 @@ Web Application Firewall detection.
 
 Live host discovery within the authorized lab network.
 
-![Zenmap Evidence](zenmap.png)
+![Zenmap Evidence](zenmap1.png)
 
 ---
 
@@ -372,7 +372,7 @@ Live host discovery within the authorized lab network.
 
 Visual representation of discovered network devices.
 
-![Zenmap Topology](zenmap-Topology.png)
+![Zenmap Topology](zenmap2.png)
 
 > **Evidence note:** All screenshots in this repository were collected during the authorized cybersecurity lab exercise and are provided for educational and portfolio documentation purposes.
 
