@@ -316,7 +316,7 @@ The following evidence was collected during the assessment and is included in th
 
 Domain registration and infrastructure information.
 
-![WHOIS Evidence](WHOIS.png)
+![WHOIS Evidence](whois.png)
 
 ---
 
@@ -324,7 +324,7 @@ Domain registration and infrastructure information.
 
 DNS records and mail-security information.
 
-![DNSRecon Evidence](DNSRecon.png)
+![DNSRecon Evidence](dnrsecon.png)
 
 ---
 
